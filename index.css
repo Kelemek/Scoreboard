@@ -51,6 +51,7 @@ body {
 .buttons button{
     color: #9AABD8;
     font-family: 'CursedTimerUlil';
+    font-size: 20px;
     border: 2px solid #9AABD8;
     border-radius: 5px;
     background-color: #0C4A6E;
@@ -62,6 +63,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: "CursedTimerUlil";
+    font-size: 20px;
     border: 3px solid #9AABD8;
     border-radius: 10px;
     max-width: 500px;
@@ -73,13 +75,13 @@ body {
     display: flex;
     justify-content: center;
     margin: 20px;
-    
     font-family: "CursedTimerUlil";
 }
 
 #newgame button {
     color: #9AABD8;
     font-family: 'CursedTimerUlil';
+    font-size: 20px;
     border: 2px solid #9AABD8;
     border-radius: 5px;
     background-color: #0C4A6E;
